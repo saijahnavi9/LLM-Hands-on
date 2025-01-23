@@ -1,0 +1,2 @@
+echo "transformers" > requirements.txt
+echo "# LLM Hands-On Project" > README.md
